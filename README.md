@@ -1,6 +1,7 @@
 Hi this is a pretty simple application I made using "Bat2Exe" by dehoisted. "https://github.com/dehoisted/Bat2Exe"
 
 For both the mods by Alekos.
+https://www.youtube.com/channel/UCwRv34XbBRJRJU_eefi78pw
 
 It just launches the F13: The Game Mods by Alekos and makes steam compatability with the Steam launcher for the original game work so Steam will track your hours on it and you will also be able to launch the mods from the page for the original game.
 
